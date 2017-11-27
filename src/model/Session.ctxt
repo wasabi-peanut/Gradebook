@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Session
+comment0.text=\r\n\ @generated\r\n
+comment1.params=title
+comment1.target=Session(java.lang.String)
+comment2.params=
+comment2.target=GradeCategory[]\ getCategories()
+comment3.params=categories
+comment3.target=void\ setCategories(GradeCategory[])
+comment4.params=
+comment4.target=java.lang.String\ getTitle()
+comment5.params=title
+comment5.target=void\ setTitle(java.lang.String)
+comment6.params=category
+comment6.target=void\ addCategory(GradeCategory)
+comment7.params=
+comment7.target=double\ getAverage()
+numComments=8

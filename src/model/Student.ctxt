@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Student
+comment1.params=id\ name
+comment1.target=Student(int,\ java.lang.String)
+comment2.params=
+comment2.target=int\ getID()
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment4.params=id
+comment4.target=void\ setID(int)
+comment5.params=name
+comment5.target=void\ setName(java.lang.String)
+comment6.params=
+comment6.target=Session[]\ getSessions()
+comment7.params=sessions
+comment7.target=void\ setSessions(Session[])
+comment8.params=session
+comment8.target=void\ addSession(Session)
+numComments=9
